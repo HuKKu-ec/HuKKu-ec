@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuKKu-ec
 - 👀 I’m interested in both web and mobile developing
-- 🌱 I’m currently learning bachler's computer science also new awesome things from internet(youtube,google,...etc)
+- 🌱 I’m currently completed bachler's computer science also new awesome things from internet
 - 💞️ I’m looking to collaborate on open source
 - 📫 Reach to me by 
 https://www.hukbathec.me          
