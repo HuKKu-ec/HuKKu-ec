@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=HuKKu-ec)
+![](https://komarev.com/ghpvc/?username=HuKKu-ec&color=brightgreen&style=for-the-badge)
 
 - 👋 Hi, I’m @HuKKu-ec
 - 👀 I’m interested in both web and mobile developing
