@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m Hukbath Ec
-#### 👀 I’m interested in both Web and Mobile developing
+#### 💻 I’m interested in both Web and Mobile developing
 
 
 - 🎓 I’m currently completed Bachelor's in Computer science
@@ -13,13 +13,7 @@ Skills: HTML / CSS / React / JS / React Native /  Firebase / MERN Stack
 
 
 
-
-
 ![GitHub metrics](https://metrics.lecoq.io/HuKKu-ec)  
-
-
-
-
 
 
 
