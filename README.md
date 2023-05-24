@@ -2,7 +2,7 @@
 #### 💻 I’m interested in both Web and Mobile developing
 
 
-- 🎓 I’m currently completed Master's in Computer science
+- 🎓 I’m currently doing Master's in Computer science
 - 🌱 I’m currently Exploring MERN Stack 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code>
