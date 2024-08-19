@@ -2,7 +2,7 @@
 #### 💻 I’m interested in both Web and Mobile app developing
 
 
-- 🎓 I’m currently doing interniship @Biztripz
+- 🎓 I’m currently flutter developer @Biztripz
 - 🌱 I’m currently Exploring Flutter app development
   
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> Flutter</code>
