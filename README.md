@@ -15,7 +15,7 @@
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"> Mogoose</code>
 
 ### My Projects ✌
-<b>Event Registration App</b> -Event registration web app which helps to make the people to register the disctrict level also its able to display the registrations in real time. ( [ View ](https://spiabetapro.netlify.app/) )
+- <b>Event Registration App</b> -Event registration web app which helps to make the people to register the disctrict level also its able to display the registrations in real time. ( [ View ](https://spiabetapro.netlify.app/) )
 <br/> Stacks Used- <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"> HTML</code> <code><img height="20" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> Firebase</code>
 - <b>Real-Chat</b> -This is a Realtime Social messaging tool which is capable of sending messages , delete messages , it can  retrieve messages later when user logs in again and also the login can be done using mobile number with otp verification. ( [ View ](https://inquisitive-tulumba-fe7761.netlify.app/) ) ( [Git Repo](https://github.com/HuKKu-ec/real-chat) )
 <br/> Stacks Used- <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> React</code> <code><img height="20" alt="firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"> Firebase</code>
