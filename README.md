@@ -1,9 +1,10 @@
 ### Hi there 👋, I’m Hukbath Ec
 #### 💻 I’m interested in both Web and Mobile app developing
 
-- 💻 I’m currently a .NET Developer
-- 💻 I previously worked as a Flutter Developer @BizTripz
-- 🎓 I completed my Master’s in Computer Science at the Central University of Tamil Nadu
+- 💻 I’m currently a .NET Developer @[Appsure](https://www.appsure.in/)
+- 💻 I previously worked as a Flutter Developer @[BizTripz](https://biztripz.com/)
+- 🎓 I completed Master’s in Computer Science at the [Central University of Tamil Nadu](https://cutn.ac.in/)
+- 🎓 I completed Bachelor’s degree at [Sulammussalam Arts and Science College](https://www.sscollege.ac.in/), affiliated to the [University of Calicut](https://uoc.ac.in/)
 - 🌱 I enjoy exploring anything related to programming
   
 <code><img height="20" alt=".NET" src="https://raw.githubusercontent.com/dotnet/brand/master/logo/dotnet-logo.png"> .NET</code>
